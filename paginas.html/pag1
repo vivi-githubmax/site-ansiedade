@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<lang="pt-br"> 
+       <header> 
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1.0">
+       <title> Ansiedade no século XXI</title>
+     <link rel="stylesheet" href="arquivo.css/arquivo.css">
+       </header>
+     <body bgcolor="#BB9469">
+      <main>
+          <h1 align="center">  Ansiedade nos dias atuais </h1>
+          <hr><h/r>
+      <h2> > Apresentação:</h2>
+        <nav>
+      <ul> 
+        <li> <a href="pag 2.html"> Oque é ansiedade?</a> </li>
+        <li> <a href="pag 3.html">  Oque fazer durante uma crise de ansiedade? </a> </li>
+        
+      </ul>
+        </nav>
+     <p>   De 9,3% dos brasileiros sofrem do transtorno de 
+        ansiedade patológica que, quando não tratado, 
+       pode desencadear outros transtornos mentais,
+       como a depressão, que atinge 300 milhões de pessoas no mundo, 
+       segundo a Organização Pan-Americana da Saúde (Opas).
+        Hoje, a ansiedade é um problema de saúde pública global.
+          </p>
+         <p>  Tanto a depressão quanto a ansiedade tiveram um 
+          aumento de 25% mundialmente em decorrência da pandemia.
+           O Brasil entra coroado nessa lista por alguns motivos, 
+           considerando o fato de que o País normalmente 
+           tem índices elevados de problemas como depressão e ansiedade.
+            Porém, não são apenas desemprego e problemas com a 
+            segurança pública que desencadeiam esse aumento.
+             </p>
+     
+
+       <img align="center" src="/html.html/imagens/ansiedade.png" alt="foto de uma pessoa ansiosa
+       "
+        width="350" height="200">
+    
+    </body>
+  </html>
