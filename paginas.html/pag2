@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width;initial-scale=1.0">
+       <title> Ansiedade no século XXI</title>
+  <link rel="stylesheet" href="arquivo.css/arquivo.css">
+    </head>
+    <body bgcolor="#BB9469">
+     
+        <h1><i><b> Oque é ansiedade? </i> </b></h1>
+            <hr> <h/r>
+         <form>
+           <h2> > Você já ouviu falar sobre,oque é ansiedade?</h2>
+            <br>
+            <input type="checkbox"  name="sim">  Sim
+            <br>
+            <input type="checkbox" name="não">  Não
+            <br>
+            <input type="checkbox" name="um pouco">  Um pouco
+            <input type="submit" name="enviar" value="enviar">
+           
+         </form>
+          <h2>
+         > Não? vem saber então,oque é um pouco de ansiedade!
+          </h2>
+        <p> 
+         
+            A ansiedade é uma resposta natural do corpo a situações de perigo,
+             estresse ou desafio. É uma reação adaptativa que nos prepara para 
+              com ameaças percebidas. No entanto, em alguns casos, 
+              a ansiedade pode se tornar desproporcional, 
+             crônica e afetar negativamente a qualidade de vida.
+             A ansiedade é um estado emocional comum que todos nós 
+             experimentamos em diferentes momentos da vida.
+              No entanto, quando se torna persistente e interfere 
+              negativamente no nosso bem-estar, 
+              é essencial compreender as complexas conexões entre 
+              a ansiedade e o cérebro.
+         </p>
+         
+         
+          <table border="5">
+            <tr align="center" bgcolor="D5BA98"">
+               <h2> > Alguns dos sintomas são: </h2>
+                <th> Físicos</th>
+                <th>Psíquicos</th>
+            </tr>
+            <tr align=" center" bgcolor="D5BA98"">
+               <td>Tensão muscular</td>
+               <td> Sensação de desrealização</td>
+            </tr>
+            <tr align="center" bgcolor="D5BA98">
+                <td>Taquicardia</td>
+                <td> Preocupação excessiva</td>
+            </tr>
+             <tr align="center" bgcolor="D5BA98">
+                <td>Boca seca</td>
+                <td> Insônia</td>
+             </tr>
+            <tr align="center" bgcolor="D5BA98">
+                <td>Náusea</td>
+                <td>Inquietação</td>
+            </tr>
+          </table>
+         </h3>
+        
+         <h2> > Como ela afeta no dia a dia?</h2>
+         <p>
+            
+           O receio de não dar conta dos compromissos faz com que muitas
+           pessoas almocem respondendo mensagem no celular ao mesmo tempo que 
+           estão pensando no que vão fazer no minuto seguinte,
+           no meio da tarde, amanhã, etc.
+           Está cada dia mais difícil não encontrarmos por aí quem não tenha uma 
+           rotina agitada, com acúmulo de afazeres, pressões internas e externas,
+           temperadas com muita preocupação. Soma-se a isso, 
+           a avalanche de informações, os vários meios para acessa-la, 
+           a tecnologia por toda a parte, daí parece mesmo impossível relaxar. 
+           É aí que mora o perigo.
+           Poucas pessoas sabem, mas o Brasil tem a maior prevalência de
+           transtornos de ansiedade do mundo, segundo dados da Organização
+            Mundial de Saúde (OMS), sendo comum tanto em adultos como em
+            crianças.
+         </p>
+         
+
+         <ul>
+            <li> <a href="pag 1.html">   voltar para o início</a>  </li>
+            <li> <a href="pag 3.html"> ir para a próxima página</a></li>
+         </ul>
+        </body>
+         </html>
